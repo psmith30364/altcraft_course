@@ -1,0 +1,235 @@
+{
+    "books": [
+        {
+            "title": "Дюна",
+            "author": "Фрэнк Герберт",
+            "price": 500,
+            "genre": "фантастика",
+            "ageRating": 16,
+            "userRating": 4.8,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Властелин колец",
+            "author": "Дж. Р. Р. Толкин",
+            "price": 650,
+            "genre": "фэнтези",
+            "ageRating": 12,
+            "userRating": 4.9,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Гарри Поттер и философский камень",
+            "author": "Дж. К. Роулинг",
+            "price": 450,
+            "genre": "фэнтези",
+            "ageRating": 6,
+            "userRating": 4.7,
+            "format": "электронная",
+            "language": "русский",
+            "inStock": false
+        },
+        {
+            "title": "Убийство в Восточном экспрессе",
+            "author": "Агата Кристи",
+            "price": 400,
+            "genre": "детектив",
+            "ageRating": 16,
+            "userRating": 4.6,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Sapiens. Краткая история человечества",
+            "author": "Юваль Ной Харари",
+            "price": 700,
+            "genre": "научпоп",
+            "ageRating": 18,
+            "userRating": 4.9,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Мир кулинарии",
+            "author": "Гордон Рамзи",
+            "price": 800,
+            "genre": "кулинария",
+            "ageRating": 18,
+            "userRating": 4.8,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": false
+        },
+        {
+            "title": "Шерлок Холмс",
+            "author": "Артур Конан Дойл",
+            "price": 300,
+            "genre": "детектив",
+            "ageRating": 12,
+            "userRating": 4.5,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "price": 600,
+            "genre": "роман",
+            "ageRating": 16,
+            "userRating": 4.7,
+            "format": "электронная",
+            "language": "английский",
+            "inStock": true
+        },
+        {
+            "title": "Маленький принц",
+            "author": "Антуан де Сент-Экзюпери",
+            "price": 350,
+            "genre": "детские книги",
+            "ageRating": 6,
+            "userRating": 4.9,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "1984",
+            "author": "Джордж Оруэлл",
+            "price": 450,
+            "genre": "антиутопия",
+            "ageRating": 16,
+            "userRating": 4.8,
+            "format": "электронная",
+            "language": "русский",
+            "inStock": false
+        },
+        {
+            "title": "Цветы для Элджернона",
+            "author": "Дэниел Киз",
+            "price": 500,
+            "genre": "фантастика",
+            "ageRating": 16,
+            "userRating": 4.9,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Мастер и Маргарита",
+            "author": "Михаил Булгаков",
+            "price": 550,
+            "genre": "роман",
+            "ageRating": 18,
+            "userRating": 4.7,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Приключения Питера Кролика",
+            "author": "Беатрис Поттер",
+            "price": 300,
+            "genre": "детские книги",
+            "ageRating": 0,
+            "userRating": 4.9,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Лунтик и его друзья",
+            "author": "Коллектив авторов",
+            "price": 250,
+            "genre": "детские книги",
+            "ageRating": 3,
+            "userRating": 4.7,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Колобок",
+            "author": "Русская народная сказка",
+            "price": 200,
+            "genre": "детские книги",
+            "ageRating": 6,
+            "userRating": 4.8,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Приключения Буратино",
+            "author": "Алексей Толстой",
+            "price": 350,
+            "genre": "детские книги",
+            "ageRating": 6,
+            "userRating": 4.9,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": false
+        },
+        {
+            "title": "Тёмные начала",
+            "author": "Филип Пулман",
+            "price": 850,
+            "genre": "фэнтези",
+            "ageRating": 14,
+            "userRating": 4.7,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Жена между нами",
+            "author": "Грейс Сэндерс",
+            "price": 550,
+            "genre": "триллер",
+            "ageRating": 18,
+            "userRating": 4.5,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Трудные люди",
+            "author": "Людмила Улицкая",
+            "price": 600,
+            "genre": "современная проза",
+            "ageRating": 16,
+            "userRating": 4.6,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": false
+        },
+        {
+            "title": "Параллельные миры",
+            "author": "Фредерик Бакман",
+            "price": 720,
+            "genre": "драма",
+            "ageRating": 18,
+            "userRating": 4.8,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Красное предупреждение",
+            "author": "Джеймс Роллинс",
+            "price": 750,
+            "genre": "приключенческий триллер",
+            "ageRating": 16,
+            "userRating": 4.7,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        }
+    ]
+}
