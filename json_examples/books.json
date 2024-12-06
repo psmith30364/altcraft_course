@@ -7,7 +7,7 @@
             "genre": "фантастика",
             "ageRating": 16,
             "userRating": 4.8,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": true
         },
@@ -18,7 +18,7 @@
             "genre": "фэнтези",
             "ageRating": 12,
             "userRating": 4.9,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": true
         },
@@ -29,7 +29,7 @@
             "genre": "фэнтези",
             "ageRating": 6,
             "userRating": 4.7,
-            "format": "электронная",
+            "format": "электронный",
             "language": "русский",
             "inStock": false
         },
@@ -40,7 +40,7 @@
             "genre": "детектив",
             "ageRating": 16,
             "userRating": 4.6,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": true
         },
@@ -51,7 +51,7 @@
             "genre": "научпоп",
             "ageRating": 18,
             "userRating": 4.9,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": true
         },
@@ -62,7 +62,7 @@
             "genre": "кулинария",
             "ageRating": 18,
             "userRating": 4.8,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": false
         },
@@ -73,7 +73,7 @@
             "genre": "детектив",
             "ageRating": 12,
             "userRating": 4.5,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": true
         },
@@ -84,7 +84,7 @@
             "genre": "роман",
             "ageRating": 16,
             "userRating": 4.7,
-            "format": "электронная",
+            "format": "электронный",
             "language": "английский",
             "inStock": true
         },
@@ -95,7 +95,7 @@
             "genre": "детские книги",
             "ageRating": 6,
             "userRating": 4.9,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": true
         },
@@ -106,7 +106,7 @@
             "genre": "антиутопия",
             "ageRating": 16,
             "userRating": 4.8,
-            "format": "электронная",
+            "format": "электронный",
             "language": "русский",
             "inStock": false
         },
@@ -117,7 +117,7 @@
             "genre": "фантастика",
             "ageRating": 16,
             "userRating": 4.9,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": true
         },
@@ -128,7 +128,7 @@
             "genre": "роман",
             "ageRating": 18,
             "userRating": 4.7,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": true
         },
@@ -139,7 +139,7 @@
             "genre": "детские книги",
             "ageRating": 0,
             "userRating": 4.9,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": true
         },
@@ -150,7 +150,7 @@
             "genre": "детские книги",
             "ageRating": 3,
             "userRating": 4.7,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": true
         },
@@ -161,7 +161,7 @@
             "genre": "детские книги",
             "ageRating": 6,
             "userRating": 4.8,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": true
         },
@@ -172,7 +172,7 @@
             "genre": "детские книги",
             "ageRating": 6,
             "userRating": 4.9,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": false
         },
@@ -183,7 +183,7 @@
             "genre": "фэнтези",
             "ageRating": 14,
             "userRating": 4.7,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": true
         },
@@ -194,7 +194,7 @@
             "genre": "триллер",
             "ageRating": 18,
             "userRating": 4.5,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": true
         },
@@ -205,7 +205,7 @@
             "genre": "современная проза",
             "ageRating": 16,
             "userRating": 4.6,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": false
         },
@@ -216,7 +216,7 @@
             "genre": "драма",
             "ageRating": 18,
             "userRating": 4.8,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
             "inStock": true
         },
@@ -227,8 +227,19 @@
             "genre": "приключенческий триллер",
             "ageRating": 16,
             "userRating": 4.7,
-            "format": "печатная",
+            "format": "печатный",
             "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "price": 700,
+            "genre": "драма",
+            "ageRating": 12,
+            "userRating": 4.9,
+            "format": "печатный",
+            "language": "английский",
             "inStock": true
         }
     ]
