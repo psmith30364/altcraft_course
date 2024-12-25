@@ -1,0 +1,794 @@
+{
+    "books": {
+        "history": [
+            {
+                "title": "Записки о Галльской войне",
+                "author": "Цезарь Гай",
+                "price": 280,
+                "ageRating": 16,
+                "userRating": 4.1,
+                "inStock": true
+            },
+            {
+                "title": "История Древнего Рима",
+                "author": "Томас Грэм",
+                "price": 925,
+                "ageRating": 16,
+                "userRating": 4.2,
+                "inStock": true
+            },
+            {
+                "title": "Жизнь в средневековой деревне",
+                "author": "Джон Льюис Гэддис",
+                "price": 790,
+                "ageRating": 16,
+                "userRating": 4.0,
+                "inStock": false
+            },
+            {
+                "title": "Война Алой и Белой розы: Крах Плантагенетов и воцарение Тюдоров",
+                "author": "Джон Льюис Гэддис",
+                "price": 850,
+                "ageRating": 16,
+                "userRating": 3.9,
+                "inStock": false
+            }
+        ],
+        "art": [
+            {
+                "title": "История искусств. Просто о важном. Стили, направления и течения",
+                "author": "Алина Аксёнова",
+                "price": 650,
+                "ageRating": 16,
+                "userRating": 3.9,
+                "inStock": true
+            },
+            {
+                "title": "История отечественного кино",
+                "author": "Валиуллин Ильдар, Жанайдаров Даулет, Рыжова Полина",
+                "price": 745,
+                "ageRating": 16,
+                "userRating": 4.4,
+                "inStock": true
+            },
+            {
+                "title": "Самоучитель игры на фортепиано",
+                "author": "Борис Поливода",
+                "price": 535,
+                "ageRating": 0,
+                "userRating": 4.2,
+                "inStock": true
+            },
+            {
+                "title": "Модернизм в искусстве",
+                "author": "Кейт Мейсон",
+                "price": 578,
+                "ageRating": 16,
+                "userRating": 4.2,
+                "inStock": true
+            },
+            {
+                "title": "О науке и искусстве",
+                "author": "Леонардо да Винчи",
+                "price": 230,
+                "ageRating": 12,
+                "userRating": 4.8,
+                "inStock": false
+            }
+        ],
+        "biography": [
+            {
+                "title": "Стив Джобс",
+                "author": "Уолтер Айзекссон",
+                "price": 670,
+                "ageRating": 12,
+                "userRating": 4.5,
+                "inStock": true
+            },
+            {
+                "title": "Оззи. Автобиография без цензуры",
+                "author": "Оззи Осборн",
+                "price": 1099,
+                "ageRating": 18,
+                "userRating": 4.3,
+                "inStock": true
+            },
+            {
+                "title": "Зеленый свет",
+                "author": "Мэттью Макконахи",
+                "price": 735,
+                "ageRating": 18,
+                "userRating": 3.9,
+                "inStock": false
+            },
+            {
+                "title": "Моё имя – Ганди",
+                "author": "Никола Мишель",
+                "price": 498,
+                "ageRating": 16,
+                "userRating": 4.2,
+                "inStock": false
+            },
+            {
+                "title": "Жажда жизни",
+                "author": "Ирвинг Стоун",
+                "price": 431,
+                "ageRating": 16,
+                "userRating": 4.0,
+                "inStock": true
+            }
+        ],
+        "detective": [
+            {
+                "title": "Шерлок Холмс: Этюд в багровых тонах",
+                "author": "Артур Конан Дойл",
+                "price": 399,
+                "ageRating": 12,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Девушка с татуировкой дракона",
+                "author": "Стиг Ларссон",
+                "price": 599,
+                "ageRating": 18,
+                "userRating": 4.5,
+                "inStock": true
+            },
+            {
+                "title": "Убийство в Восточном экспрессе",
+                "author": "Агата Кристи",
+                "price": 450,
+                "ageRating": 12,
+                "userRating": 4.7,
+                "inStock": true
+            },
+            {
+                "title": "Девушка на костре",
+                "author": "Рита Хейуорт",
+                "price": 520,
+                "ageRating": 16,
+                "userRating": 4.4,
+                "inStock": false
+            },
+            {
+                "title": "Тайна десяти неизвестных",
+                "author": "Джон Гриффит",
+                "price": 650,
+                "ageRating": 18,
+                "userRating": 4.3,
+                "inStock": true
+            }
+        ],
+        "historicalNovel": [
+            {
+                "title": "Война и мир",
+                "author": "Лев Толстой",
+                "price": 750,
+                "ageRating": 16,
+                "userRating": 4.9,
+                "inStock": true
+            },
+            {
+                "title": "Преступление и наказание",
+                "author": "Федор Достоевский",
+                "price": 599,
+                "ageRating": 18,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Герой нашего времени",
+                "author": "Михаил Лермонтов",
+                "price": 540,
+                "ageRating": 16,
+                "userRating": 4.6,
+                "inStock": true
+            },
+            {
+                "title": "Обломов",
+                "author": "Иван Гончаров",
+                "price": 499,
+                "ageRating": 16,
+                "userRating": 4.5,
+                "inStock": true
+            },
+            {
+                "title": "Тихий Дон",
+                "author": "Михаил Шолохов",
+                "price": 830,
+                "ageRating": 18,
+                "userRating": 4.7,
+                "inStock": false
+            }
+        ],
+        "fantasy": [
+            {
+                "title": "Властелин колец: Братство кольца",
+                "author": "Дж. Р. Р. Толкин",
+                "price": 999,
+                "ageRating": 12,
+                "userRating": 4.9,
+                "inStock": true
+            },
+            {
+                "title": "Хоббит, или Туда и обратно",
+                "author": "Дж. Р. Р. Толкин",
+                "price": 699,
+                "ageRating": 12,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Песнь льда и огня: Игра престолов",
+                "author": "Джордж Р. Р. Мартин",
+                "price": 1150,
+                "ageRating": 18,
+                "userRating": 4.7,
+                "inStock": true
+            },
+            {
+                "title": "Шерлок Холмс и эльфийский меч",
+                "author": "Джеймс К. Стивенс",
+                "price": 450,
+                "ageRating": 12,
+                "userRating": 4.3,
+                "inStock": true
+            },
+            {
+                "title": "Магия среди нас",
+                "author": "Кэтрин Шварц",
+                "price": 600,
+                "ageRating": 16,
+                "userRating": 4.6,
+                "inStock": true
+            }
+        ],
+        "scienceFiction": [
+            {
+                "title": "1984",
+                "author": "Джордж Оруэлл",
+                "price": 550,
+                "ageRating": 16,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Марсианин",
+                "author": "Энди Уир",
+                "price": 800,
+                "ageRating": 16,
+                "userRating": 4.6,
+                "inStock": true
+            },
+            {
+                "title": "Солярис",
+                "author": "Станислав Лем",
+                "price": 650,
+                "ageRating": 18,
+                "userRating": 4.7,
+                "inStock": true
+            },
+            {
+                "title": "Дюна",
+                "author": "Фрэнк Херберт",
+                "price": 950,
+                "ageRating": 18,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Бегущий по лезвию",
+                "author": "Филип К. Дик",
+                "price": 500,
+                "ageRating": 16,
+                "userRating": 4.5,
+                "inStock": true
+            }
+        ],
+        "thriller": [
+            {
+                "title": "Сияние",
+                "author": "Стивен Кинг",
+                "price": 500,
+                "ageRating": 16,
+                "userRating": 4.9,
+                "inStock": true
+            },
+            {
+                "title": "Молчание ягнят",
+                "author": "Томас Харрис",
+                "price": 600,
+                "ageRating": 18,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Чистое убийство",
+                "author": "Роберт Гриффин",
+                "price": 499,
+                "ageRating": 18,
+                "userRating": 4.7,
+                "inStock": true
+            },
+            {
+                "title": "Погоня",
+                "author": "Джеймс Паттерсон",
+                "price": 650,
+                "ageRating": 16,
+                "userRating": 4.6,
+                "inStock": false
+            },
+            {
+                "title": "Проклятие",
+                "author": "Ричард Мэтьюс",
+                "price": 550,
+                "ageRating": 16,
+                "userRating": 4.4,
+                "inStock": true
+            }
+        ],
+        "horror": [
+            {
+                "title": "Оно",
+                "author": "Стивен Кинг",
+                "price": 950,
+                "ageRating": 18,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Мертвые души",
+                "author": "Николай Гоголь",
+                "price": 600,
+                "ageRating": 16,
+                "userRating": 4.7,
+                "inStock": true
+            },
+            {
+                "title": "Экзорцист",
+                "author": "Уильям Питер Блатий",
+                "price": 500,
+                "ageRating": 18,
+                "userRating": 4.9,
+                "inStock": true
+            },
+            {
+                "title": "Темные воды",
+                "author": "Джеймс Кемпбелл",
+                "price": 499,
+                "ageRating": 16,
+                "userRating": 4.6,
+                "inStock": true
+            },
+            {
+                "title": "Воскрешение",
+                "author": "Джон Харви",
+                "price": 700,
+                "ageRating": 18,
+                "userRating": 4.5,
+                "inStock": true
+            }
+        ],
+        "adventure": [
+            {
+                "title": "Приключения Тома Сойера",
+                "author": "Марк Твен",
+                "price": 450,
+                "ageRating": 12,
+                "userRating": 4.7,
+                "inStock": true
+            },
+            {
+                "title": "Остров сокровищ",
+                "author": "Роберт Льюис Стивенсон",
+                "price": 350,
+                "ageRating": 12,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Железный человек",
+                "author": "Ричард Стейн",
+                "price": 550,
+                "ageRating": 16,
+                "userRating": 4.5,
+                "inStock": true
+            },
+            {
+                "title": "Жизнь и приключения Микайла Рея",
+                "author": "Микайло Янкович",
+                "price": 480,
+                "ageRating": 18,
+                "userRating": 4.6,
+                "inStock": true
+            },
+            {
+                "title": "Убийца на краю света",
+                "author": "Кристофер Баркер",
+                "price": 700,
+                "ageRating": 16,
+                "userRating": 4.7,
+                "inStock": true
+            }
+        ],
+        "romance": [
+            {
+                "title": "Гордость и предубеждение",
+                "author": "Джейн Остин",
+                "price": 450,
+                "ageRating": 12,
+                "userRating": 4.9,
+                "inStock": true
+            },
+            {
+                "title": "Таймлес",
+                "author": "Керстин Гир",
+                "price": 500,
+                "ageRating": 16,
+                "userRating": 4.7,
+                "inStock": true
+            },
+            {
+                "title": "Этюд в багровых тонах",
+                "author": "Артур Конан Дойл",
+                "price": 600,
+                "ageRating": 12,
+                "userRating": 4.6,
+                "inStock": true
+            },
+            {
+                "title": "Сумерки",
+                "author": "Стефани Майер",
+                "price": 450,
+                "ageRating": 16,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Железная леди",
+                "author": "Ребекка Классен",
+                "price": 520,
+                "ageRating": 18,
+                "userRating": 4.5,
+                "inStock": true
+            }
+        ],
+        "magical_realism": [
+            {
+                "title": "Сто лет одиночества",
+                "author": "Габриэль Гарсиа Маркес",
+                "price": 700,
+                "ageRating": 18,
+                "userRating": 4.9,
+                "inStock": true
+            },
+            {
+                "title": "Мастер и Маргарита",
+                "author": "Михаил Булгаков",
+                "price": 600,
+                "ageRating": 16,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Дом духов",
+                "author": "Изабель Альенде",
+                "price": 650,
+                "ageRating": 16,
+                "userRating": 4.7,
+                "inStock": true
+            },
+            {
+                "title": "Невидимые города",
+                "author": "Итало Кальвино",
+                "price": 450,
+                "ageRating": 12,
+                "userRating": 4.5,
+                "inStock": true
+            },
+            {
+                "title": "Палата №6",
+                "author": "Антон Чехов",
+                "price": 500,
+                "ageRating": 16,
+                "userRating": 4.6,
+                "inStock": true
+            }
+        ],
+        "utopia": [
+            {
+                "title": "Утопия",
+                "author": "Томас Мор",
+                "price": 450,
+                "ageRating": 12,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Левиафан",
+                "author": "Томас Гоббс",
+                "price": 550,
+                "ageRating": 16,
+                "userRating": 4.7,
+                "inStock": true
+            },
+            {
+                "title": "Гаргантюа и Пантагрюэль",
+                "author": "Франсуа Рабле",
+                "price": 600,
+                "ageRating": 16,
+                "userRating": 4.6,
+                "inStock": true
+            },
+            {
+                "title": "Путеводитель по галактике для автостопщиков",
+                "author": "Дуглас Адамс",
+                "price": 700,
+                "ageRating": 12,
+                "userRating": 4.9,
+                "inStock": true
+            },
+            {
+                "title": "1984",
+                "author": "Джордж Оруэлл",
+                "price": 750,
+                "ageRating": 16,
+                "userRating": 4.8,
+                "inStock": true
+            }
+        ],
+        "dystopia": [
+            {
+                "title": "1984",
+                "author": "Джордж Оруэлл",
+                "price": 600,
+                "ageRating": 16,
+                "userRating": 4.9,
+                "inStock": true
+            },
+            {
+                "title": "Мы",
+                "author": "Евгений Замятин",
+                "price": 450,
+                "ageRating": 16,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "О дивный новый мир",
+                "author": "Олдос Хаксли",
+                "price": 500,
+                "ageRating": 16,
+                "userRating": 4.7,
+                "inStock": true
+            },
+            {
+                "title": "Рассвет",
+                "author": "Джеймс Кемпбелл",
+                "price": 650,
+                "ageRating": 16,
+                "userRating": 4.6,
+                "inStock": false
+            },
+            {
+                "title": "Время секонд хэнд",
+                "author": "Светлана Алексиевич",
+                "price": 550,
+                "ageRating": 18,
+                "userRating": 4.5,
+                "inStock": true
+            }
+        ],
+        "humor": [
+            {
+                "title": "День радио",
+                "author": "Владимир Сорокин",
+                "price": 450,
+                "ageRating": 12,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Палата №6",
+                "author": "Антон Чехов",
+                "price": 500,
+                "ageRating": 16,
+                "userRating": 4.7,
+                "inStock": true
+            },
+            {
+                "title": "Воскресение",
+                "author": "Лев Толстой",
+                "price": 600,
+                "ageRating": 16,
+                "userRating": 4.5,
+                "inStock": true
+            },
+            {
+                "title": "Театр",
+                "author": "Владимир Набоков",
+                "price": 650,
+                "ageRating": 18,
+                "userRating": 4.6,
+                "inStock": true
+            },
+            {
+                "title": "Записки сумасшедшего",
+                "author": "Николай Гоголь",
+                "price": 500,
+                "ageRating": 16,
+                "userRating": 4.7,
+                "inStock": true
+            }
+        ],
+        "classics": [
+            {
+                "title": "Война и мир",
+                "author": "Лев Толстой",
+                "price": 950,
+                "ageRating": 18,
+                "userRating": 5.0,
+                "inStock": true
+            },
+            {
+                "title": "Преступление и наказание",
+                "author": "Федор Достоевский",
+                "price": 750,
+                "ageRating": 18,
+                "userRating": 4.9,
+                "inStock": true
+            },
+            {
+                "title": "Анна Каренина",
+                "author": "Лев Толстой",
+                "price": 800,
+                "ageRating": 18,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Мастер и Маргарита",
+                "author": "Михаил Булгаков",
+                "price": 700,
+                "ageRating": 16,
+                "userRating": 4.9,
+                "inStock": true
+            },
+            {
+                "title": "Герой нашего времени",
+                "author": "Михаил Лермонтов",
+                "price": 600,
+                "ageRating": 16,
+                "userRating": 4.7,
+                "inStock": true
+            }
+        ],
+        "comics": [
+            {
+                "title": "Бэтмен: Рыцарь Готэма",
+                "author": "Грант Моррисон",
+                "price": 600,
+                "ageRating": 12,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Супермен: Новый мир",
+                "author": "Джон Бирн",
+                "price": 550,
+                "ageRating": 12,
+                "userRating": 4.7,
+                "inStock": true
+            },
+            {
+                "title": "Человек-паук: Место для друзей",
+                "author": "Джеймс О'Барр",
+                "price": 650,
+                "ageRating": 16,
+                "userRating": 4.9,
+                "inStock": true
+            },
+            {
+                "title": "Мстители: Эра Альтрона",
+                "author": "Джос Уидон",
+                "price": 700,
+                "ageRating": 12,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Железный человек: Путь в темноту",
+                "author": "Джонатан Иаковски",
+                "price": 650,
+                "ageRating": 12,
+                "userRating": 4.7,
+                "inStock": true
+            }
+        ],
+        "manga": [
+            {
+                "title": "Тетрадь смерти",
+                "author": "Цугуми Обаха",
+                "price": 600,
+                "ageRating": 12,
+                "userRating": 4.9,
+                "inStock": true
+            },
+            {
+                "title": "Наруто",
+                "author": "Масаши Кишимото",
+                "price": 500,
+                "ageRating": 16,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Атака титанов",
+                "author": "Хадзимэ Исаяма",
+                "price": 650,
+                "ageRating": 18,
+                "userRating": 4.7,
+                "inStock": true
+            },
+            {
+                "title": "Сейлор Мун",
+                "author": "Наоко Такэути",
+                "price": 500,
+                "ageRating": 12,
+                "userRating": 4.6,
+                "inStock": true
+            },
+            {
+                "title": "One Piece",
+                "author": "Эйитиро Ода",
+                "price": 700,
+                "ageRating": 16,
+                "userRating": 4.9,
+                "inStock": true
+            }
+        ],
+        "poetry": [
+            {
+                "title": "Собрание стихов",
+                "author": "Александр Пушкин",
+                "price": 500,
+                "ageRating": 12,
+                "userRating": 5.0,
+                "inStock": true
+            },
+            {
+                "title": "Евгений Онегин",
+                "author": "Александр Пушкин",
+                "price": 600,
+                "ageRating": 16,
+                "userRating": 4.8,
+                "inStock": true
+            },
+            {
+                "title": "Избранные стихотворения",
+                "author": "Анна Ахматова",
+                "price": 550,
+                "ageRating": 12,
+                "userRating": 4.7,
+                "inStock": true
+            },
+            {
+                "title": "Записки о любви",
+                "author": "Марина Цветаева",
+                "price": 450,
+                "ageRating": 12,
+                "userRating": 4.6,
+                "inStock": true
+            },
+            {
+                "title": "Стихи о Родине",
+                "author": "Борис Гребенщиков",
+                "price": 500,
+                "ageRating": 12,
+                "userRating": 4.7,
+                "inStock": true
+            }
+        ]
+    }
+}
