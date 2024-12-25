@@ -1,677 +1,679 @@
-[
-    {
-        "title": "Искусство вышивки крестом",
-        "author": "Наталья Леонова",
-        "price": 506,
-        "genre": "хобби",
-        "ageRating": 16,
-        "userRating": 4.9,
-        "inStock": true
-    },
-    {
-        "title": "Деревообработка для начинающих",
-        "author": "Пол Ноубл",
-        "price": 742,
-        "genre": "хобби",
-        "ageRating": 18,
-        "userRating": 4.6,
-        "inStock": true
-    },
-    {
-        "title": "Садоводство круглый год",
-        "author": "Джеймс Уоррен",
-        "price": 434,
-        "genre": "хобби",
-        "ageRating": 16,
-        "userRating": 3.6,
-        "inStock": false
-    },
-    {
-        "title": "7 навыков высокоэффективных людей",
-        "author": "Стивен Кови",
-        "price": 687,
-        "genre": "саморазвитие",
-        "ageRating": 6,
-        "userRating": 4.0,
-        "inStock": false
-    },
-    {
-        "title": "Магия утра",
-        "author": "Хэл Элрод",
-        "price": 671,
-        "genre": "саморазвитие",
-        "ageRating": 18,
-        "userRating": 3.9,
-        "inStock": false
-    },
-    {
-        "title": "Думай и богатей",
-        "author": "Наполеон Хилл",
-        "price": 499,
-        "genre": "саморазвитие",
-        "ageRating": 12,
-        "userRating": 4.7,
-        "inStock": true
-    },
-    {
-        "title": "Игры, в которые играют люди",
-        "author": "Эрик Берн",
-        "price": 957,
-        "genre": "психология",
-        "ageRating": 12,
-        "userRating": 4.6,
-        "inStock": true
-    },
-    {
-        "title": "Психология влияния",
-        "author": "Роберт Чалдини",
-        "price": 755,
-        "genre": "психология",
-        "ageRating": 6,
-        "userRating": 4.0,
-        "inStock": true
-    },
-    {
-        "title": "Мужчины с Марса, женщины с Венеры",
-        "author": "Джон Грэй",
-        "price": 597,
-        "genre": "психология",
-        "ageRating": 12,
-        "userRating": 4.2,
-        "inStock": false
-    },
-    {
-        "title": "История инженерии",
-        "author": "Джеймс Харрисон",
-        "price": 804,
-        "genre": "техника",
-        "ageRating": 16,
-        "userRating": 4.0,
-        "inStock": false
-    },
-    {
-        "title": "Как работает автомобиль",
-        "author": "Том Ньютон",
-        "price": 859,
-        "genre": "техника",
-        "ageRating": 18,
-        "userRating": 3.9,
-        "inStock": false
-    },
-    {
-        "title": "Робототехника для начинающих",
-        "author": "Сара Коннор",
-        "price": 906,
-        "genre": "техника",
-        "ageRating": 12,
-        "userRating": 4.5,
-        "inStock": true
-    },
-    {
-        "title": "Краткая история времени",
-        "author": "Стивен Хокинг",
-        "price": 415,
-        "genre": "наука",
-        "ageRating": 18,
-        "userRating": 4.9,
-        "inStock": false
-    },
-    {
-        "title": "Элегантная вселенная",
-        "author": "Брайан Грин",
-        "price": 419,
-        "genre": "наука",
-        "ageRating": 12,
-        "userRating": 4.2,
-        "inStock": true
-    },
-    {
-        "title": "Происхождение видов",
-        "author": "Чарльз Дарвин",
-        "price": 999,
-        "genre": "наука",
-        "ageRating": 16,
-        "userRating": 4.5,
-        "inStock": false
-    },
-    {
-        "title": "Голубая кровь",
-        "author": "Саймон Себаг Монтефиоре",
-        "price": 602,
-        "genre": "история",
-        "ageRating": 18,
-        "userRating": 4.0,
-        "inStock": true
-    },
-    {
-        "title": "История России",
-        "author": "Николай Карамзин",
-        "price": 957,
-        "genre": "история",
-        "ageRating": 18,
-        "userRating": 4.7,
-        "inStock": false
-    },
-    {
-        "title": "Падение римской империи",
-        "author": "Эдвард Гиббон",
-        "price": 351,
-        "genre": "история",
-        "ageRating": 18,
-        "userRating": 3.7,
-        "inStock": false
-    },
-    {
-        "title": "История искусства",
-        "author": "Э. Гомбрих",
-        "price": 863,
-        "genre": "искусство",
-        "ageRating": 12,
-        "userRating": 4.4,
-        "inStock": true
-    },
-    {
-        "title": "Искусство как профессия",
-        "author": "Эрнст Гомбрих",
-        "price": 624,
-        "genre": "искусство",
-        "ageRating": 12,
-        "userRating": 4.5,
-        "inStock": false
-    },
-    {
-        "title": "Музеи мира",
-        "author": "Джонатан Джонс",
-        "price": 305,
-        "genre": "искусство",
-        "ageRating": 12,
-        "userRating": 4.3,
-        "inStock": true
-    },
-    {
-        "title": "Стив Джобс",
-        "author": "Уолтер Айзексон",
-        "price": 656,
-        "genre": "биография",
-        "ageRating": 6,
-        "userRating": 4.4,
-        "inStock": false
-    },
-    {
-        "title": "Черчилль",
-        "author": "Эндрю Робертс",
-        "price": 970,
-        "genre": "биография",
-        "ageRating": 16,
-        "userRating": 4.7,
-        "inStock": true
-    },
-    {
-        "title": "Фрида Кало: Биография",
-        "author": "Хейден Эррера",
-        "price": 758,
-        "genre": "биография",
-        "ageRating": 18,
-        "userRating": 4.0,
-        "inStock": true
-    },
-    {
-        "title": "От хорошего к великому",
-        "author": "Джим Коллинз",
-        "price": 571,
-        "genre": "бизнес",
-        "ageRating": 12,
-        "userRating": 3.8,
-        "inStock": false
-    },
-    {
-        "title": "Развитие стартапа",
-        "author": "Эрик Рис",
-        "price": 692,
-        "genre": "бизнес",
-        "ageRating": 16,
-        "userRating": 4.8,
-        "inStock": false
-    },
-    {
-        "title": "Богатый папа, бедный папа",
-        "author": "Роберт Кийосаки",
-        "price": 504,
-        "genre": "бизнес",
-        "ageRating": 12,
-        "userRating": 4.0,
-        "inStock": false
-    },
-    {
-        "title": "Убийство в Восточном экспрессе",
-        "author": "Агата Кристи",
-        "price": 775,
-        "genre": "детектив",
-        "ageRating": 18,
-        "userRating": 4.3,
-        "inStock": true
-    },
-    {
-        "title": "Шерлок Холмс: Этюд в багровых тонах",
-        "author": "Артур Конан Дойл",
-        "price": 536,
-        "genre": "детектив",
-        "ageRating": 18,
-        "userRating": 4.3,
-        "inStock": false
-    },
-    {
-        "title": "Девушка с татуировкой дракона",
-        "author": "Стиг Ларссон",
-        "price": 489,
-        "genre": "детектив",
-        "ageRating": 6,
-        "userRating": 4.0,
-        "inStock": true
-    },
-    {
-        "title": "Война и мир",
-        "author": "Лев Толстой",
-        "price": 544,
-        "genre": "исторический роман",
-        "ageRating": 6,
-        "userRating": 3.8,
-        "inStock": false
-    },
-    {
-        "title": "Имя розы",
-        "author": "Умберто Эко",
-        "price": 439,
-        "genre": "исторический роман",
-        "ageRating": 18,
-        "userRating": 3.7,
-        "inStock": false
-    },
-    {
-        "title": "Я, Клавдий",
-        "author": "Роберт Грейвз",
-        "price": 355,
-        "genre": "исторический роман",
-        "ageRating": 6,
-        "userRating": 4.1,
-        "inStock": true
-    },
-    {
-        "title": "Властелин колец",
-        "author": "Дж. Р. Р. Толкин",
-        "price": 701,
-        "genre": "фэнтези",
-        "ageRating": 6,
-        "userRating": 4.8,
-        "inStock": false
-    },
-    {
-        "title": "Гарри Поттер и философский камень",
-        "author": "Джоан Роулинг",
-        "price": 396,
-        "genre": "фэнтези",
-        "ageRating": 18,
-        "userRating": 3.6,
-        "inStock": false
-    },
-    {
-        "title": "Игра престолов",
-        "author": "Джордж Мартин",
-        "price": 561,
-        "genre": "фэнтези",
-        "ageRating": 16,
-        "userRating": 4.8,
-        "inStock": false
-    },
-    {
-        "title": "Дюна",
-        "author": "Фрэнк Герберт",
-        "price": 623,
-        "genre": "фантастика",
-        "ageRating": 16,
-        "userRating": 3.5,
-        "inStock": false
-    },
-    {
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "price": 652,
-        "genre": "фантастика",
-        "ageRating": 12,
-        "userRating": 4.4,
-        "inStock": false
-    },
-    {
-        "title": "Путеводитель по галактике",
-        "author": "Дуглас Адамс",
-        "price": 731,
-        "genre": "фантастика",
-        "ageRating": 18,
-        "userRating": 3.7,
-        "inStock": true
-    },
-    {
-        "title": "Девушка в поезде",
-        "author": "Пола Хокинс",
-        "price": 628,
-        "genre": "триллер",
-        "ageRating": 12,
-        "userRating": 4.9,
-        "inStock": true
-    },
-    {
-        "title": "Исчезнувшая",
-        "author": "Гиллиан Флинн",
-        "price": 397,
-        "genre": "триллер",
-        "ageRating": 6,
-        "userRating": 4.9,
-        "inStock": false
-    },
-    {
-        "title": "Шпион, выйди вон!",
-        "author": "Джон Ле Карре",
-        "price": 857,
-        "genre": "триллер",
-        "ageRating": 12,
-        "userRating": 3.9,
-        "inStock": false
-    },
-    {
-        "title": "Оно",
-        "author": "Стивен Кинг",
-        "price": 470,
-        "genre": "ужасы",
-        "ageRating": 16,
-        "userRating": 5.0,
-        "inStock": false
-    },
-    {
-        "title": "Дракула",
-        "author": "Брэм Стокер",
-        "price": 650,
-        "genre": "ужасы",
-        "ageRating": 18,
-        "userRating": 3.7,
-        "inStock": true
-    },
-    {
-        "title": "Сияние",
-        "author": "Стивен Кинг",
-        "price": 980,
-        "genre": "ужасы",
-        "ageRating": 6,
-        "userRating": 5.0,
-        "inStock": true
-    },
-    {
-        "title": "Остров сокровищ",
-        "author": "Роберт Льюис Стивенсон",
-        "price": 847,
-        "genre": "приключения",
-        "ageRating": 18,
-        "userRating": 3.7,
-        "inStock": true
-    },
-    {
-        "title": "Путешествие к центру Земли",
-        "author": "Жюль Верн",
-        "price": 367,
-        "genre": "приключения",
-        "ageRating": 16,
-        "userRating": 4.9,
-        "inStock": true
-    },
-    {
-        "title": "Три мушкетера",
-        "author": "Александр Дюма",
-        "price": 338,
-        "genre": "приключения",
-        "ageRating": 6,
-        "userRating": 3.7,
-        "inStock": true
-    },
-    {
-        "title": "Гордость и предубеждение",
-        "author": "Джейн Остен",
-        "price": 983,
-        "genre": "любовный роман",
-        "ageRating": 16,
-        "userRating": 4.1,
-        "inStock": false
-    },
-    {
-        "title": "Дневник памяти",
-        "author": "Николас Спаркс",
-        "price": 997,
-        "genre": "любовный роман",
-        "ageRating": 6,
-        "userRating": 3.9,
-        "inStock": true
-    },
-    {
-        "title": "Анна Каренина",
-        "author": "Лев Толстой",
-        "price": 824,
-        "genre": "любовный роман",
-        "ageRating": 16,
-        "userRating": 4.0,
-        "inStock": false
-    },
-    {
-        "title": "Сто лет одиночества",
-        "author": "Габриэль Гарсиа Маркес",
-        "price": 666,
-        "genre": "магический реализм",
-        "ageRating": 16,
-        "userRating": 4.6,
-        "inStock": true
-    },
-    {
-        "title": "Дом духов",
-        "author": "Исабель Альенде",
-        "price": 518,
-        "genre": "магический реализм",
-        "ageRating": 16,
-        "userRating": 4.4,
-        "inStock": false
-    },
-    {
-        "title": "Любовь во время холеры",
-        "author": "Габриэль Гарсиа Маркес",
-        "price": 522,
-        "genre": "магический реализм",
-        "ageRating": 16,
-        "userRating": 4.7,
-        "inStock": true
-    },
-    {
-        "title": "Утопия",
-        "author": "Томас Мор",
-        "price": 679,
-        "genre": "утопия",
-        "ageRating": 16,
-        "userRating": 4.4,
-        "inStock": true
-    },
-    {
-        "title": "Город солнца",
-        "author": "Томмазо Кампанелла",
-        "price": 334,
-        "genre": "утопия",
-        "ageRating": 12,
-        "userRating": 3.8,
-        "inStock": false
-    },
-    {
-        "title": "О дивный новый мир",
-        "author": "Олдос Хаксли",
-        "price": 577,
-        "genre": "утопия",
-        "ageRating": 12,
-        "userRating": 4.9,
-        "inStock": false
-    },
-    {
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "price": 682,
-        "genre": "антиутопия",
-        "ageRating": 6,
-        "userRating": 3.8,
-        "inStock": true
-    },
-    {
-        "title": "Мы",
-        "author": "Евгений Замятин",
-        "price": 709,
-        "genre": "антиутопия",
-        "ageRating": 12,
-        "userRating": 4.6,
-        "inStock": true
-    },
-    {
-        "title": "Скотный двор",
-        "author": "Джордж Оруэлл",
-        "price": 929,
-        "genre": "антиутопия",
-        "ageRating": 18,
-        "userRating": 3.9,
-        "inStock": true
-    },
-    {
-        "title": "Трое в лодке",
-        "author": "Джером К. Джером",
-        "price": 630,
-        "genre": "юмор",
-        "ageRating": 12,
-        "userRating": 3.8,
-        "inStock": false
-    },
-    {
-        "title": "Автостопом по галактике",
-        "author": "Дуглас Адамс",
-        "price": 678,
-        "genre": "юмор",
-        "ageRating": 6,
-        "userRating": 4.5,
-        "inStock": true
-    },
-    {
-        "title": "Маленький Николя",
-        "author": "Рене Госинни",
-        "price": 787,
-        "genre": "юмор",
-        "ageRating": 18,
-        "userRating": 4.1,
-        "inStock": true
-    },
-    {
-        "title": "Преступление и наказание",
-        "author": "Фёдор Достоевский",
-        "price": 752,
-        "genre": "классика",
-        "ageRating": 6,
-        "userRating": 3.6,
-        "inStock": true
-    },
-    {
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "price": 655,
-        "genre": "классика",
-        "ageRating": 12,
-        "userRating": 4.9,
-        "inStock": true
-    },
-    {
-        "title": "Гамлет",
-        "author": "Уильям Шекспир",
-        "price": 614,
-        "genre": "классика",
-        "ageRating": 12,
-        "userRating": 3.9,
-        "inStock": false
-    },
-    {
-        "title": "Мстители",
-        "author": "Стен Ли",
-        "price": 983,
-        "genre": "комиксы",
-        "ageRating": 16,
-        "userRating": 3.6,
-        "inStock": true
-    },
-    {
-        "title": "Человек-паук",
-        "author": "Стен Ли",
-        "price": 679,
-        "genre": "комиксы",
-        "ageRating": 18,
-        "userRating": 3.6,
-        "inStock": false
-    },
-    {
-        "title": "Бэтмен: Год первый",
-        "author": "Фрэнк Миллер",
-        "price": 645,
-        "genre": "комиксы",
-        "ageRating": 6,
-        "userRating": 4.8,
-        "inStock": false
-    },
-    {
-        "title": "Наруто",
-        "author": "Масаси Кисимото",
-        "price": 478,
-        "genre": "манга",
-        "ageRating": 16,
-        "userRating": 4.6,
-        "inStock": true
-    },
-    {
-        "title": "Атака на титанов",
-        "author": "Хадзиме Исаяма",
-        "price": 917,
-        "genre": "манга",
-        "ageRating": 16,
-        "userRating": 3.6,
-        "inStock": true
-    },
-    {
-        "title": "Тетрадь смерти",
-        "author": "Цугуми Оба",
-        "price": 526,
-        "genre": "манга",
-        "ageRating": 6,
-        "userRating": 3.7,
-        "inStock": true
-    },
-    {
-        "title": "Евгений Онегин",
-        "author": "Александр Пушкин",
-        "price": 563,
-        "genre": "поэзия",
-        "ageRating": 18,
-        "userRating": 3.5,
-        "inStock": true
-    },
-    {
-        "title": "Божественная комедия",
-        "author": "Данте Алигьери",
-        "price": 575,
-        "genre": "поэзия",
-        "ageRating": 12,
-        "userRating": 4.6,
-        "inStock": true
-    },
-    {
-        "title": "Сонеты",
-        "author": "Уильям Шекспир",
-        "price": 331,
-        "genre": "поэзия",
-        "ageRating": 6,
-        "userRating": 4.0,
-        "inStock": true
-    }
-]
+{
+    "catalog": [
+        {
+            "title": "Искусство вышивки крестом",
+            "author": "Наталья Леонова",
+            "price": 506,
+            "genre": "хобби",
+            "ageRating": 16,
+            "userRating": 4.9,
+            "inStock": true
+        },
+        {
+            "title": "Деревообработка для начинающих",
+            "author": "Пол Ноубл",
+            "price": 742,
+            "genre": "хобби",
+            "ageRating": 18,
+            "userRating": 4.6,
+            "inStock": true
+        },
+        {
+            "title": "Садоводство круглый год",
+            "author": "Джеймс Уоррен",
+            "price": 434,
+            "genre": "хобби",
+            "ageRating": 16,
+            "userRating": 3.6,
+            "inStock": false
+        },
+        {
+            "title": "7 навыков высокоэффективных людей",
+            "author": "Стивен Кови",
+            "price": 687,
+            "genre": "саморазвитие",
+            "ageRating": 6,
+            "userRating": 4.0,
+            "inStock": false
+        },
+        {
+            "title": "Магия утра",
+            "author": "Хэл Элрод",
+            "price": 671,
+            "genre": "саморазвитие",
+            "ageRating": 18,
+            "userRating": 3.9,
+            "inStock": false
+        },
+        {
+            "title": "Думай и богатей",
+            "author": "Наполеон Хилл",
+            "price": 499,
+            "genre": "саморазвитие",
+            "ageRating": 12,
+            "userRating": 4.7,
+            "inStock": true
+        },
+        {
+            "title": "Игры, в которые играют люди",
+            "author": "Эрик Берн",
+            "price": 957,
+            "genre": "психология",
+            "ageRating": 12,
+            "userRating": 4.6,
+            "inStock": true
+        },
+        {
+            "title": "Психология влияния",
+            "author": "Роберт Чалдини",
+            "price": 755,
+            "genre": "психология",
+            "ageRating": 6,
+            "userRating": 4.0,
+            "inStock": true
+        },
+        {
+            "title": "Мужчины с Марса, женщины с Венеры",
+            "author": "Джон Грэй",
+            "price": 597,
+            "genre": "психология",
+            "ageRating": 12,
+            "userRating": 4.2,
+            "inStock": false
+        },
+        {
+            "title": "История инженерии",
+            "author": "Джеймс Харрисон",
+            "price": 804,
+            "genre": "техника",
+            "ageRating": 16,
+            "userRating": 4.0,
+            "inStock": false
+        },
+        {
+            "title": "Как работает автомобиль",
+            "author": "Том Ньютон",
+            "price": 859,
+            "genre": "техника",
+            "ageRating": 18,
+            "userRating": 3.9,
+            "inStock": false
+        },
+        {
+            "title": "Робототехника для начинающих",
+            "author": "Сара Коннор",
+            "price": 906,
+            "genre": "техника",
+            "ageRating": 12,
+            "userRating": 4.5,
+            "inStock": true
+        },
+        {
+            "title": "Краткая история времени",
+            "author": "Стивен Хокинг",
+            "price": 415,
+            "genre": "наука",
+            "ageRating": 18,
+            "userRating": 4.9,
+            "inStock": false
+        },
+        {
+            "title": "Элегантная вселенная",
+            "author": "Брайан Грин",
+            "price": 419,
+            "genre": "наука",
+            "ageRating": 12,
+            "userRating": 4.2,
+            "inStock": true
+        },
+        {
+            "title": "Происхождение видов",
+            "author": "Чарльз Дарвин",
+            "price": 999,
+            "genre": "наука",
+            "ageRating": 16,
+            "userRating": 4.5,
+            "inStock": false
+        },
+        {
+            "title": "Голубая кровь",
+            "author": "Саймон Себаг Монтефиоре",
+            "price": 602,
+            "genre": "история",
+            "ageRating": 18,
+            "userRating": 4.0,
+            "inStock": true
+        },
+        {
+            "title": "История России",
+            "author": "Николай Карамзин",
+            "price": 957,
+            "genre": "история",
+            "ageRating": 18,
+            "userRating": 4.7,
+            "inStock": false
+        },
+        {
+            "title": "Падение римской империи",
+            "author": "Эдвард Гиббон",
+            "price": 351,
+            "genre": "история",
+            "ageRating": 18,
+            "userRating": 3.7,
+            "inStock": false
+        },
+        {
+            "title": "История искусства",
+            "author": "Э. Гомбрих",
+            "price": 863,
+            "genre": "искусство",
+            "ageRating": 12,
+            "userRating": 4.4,
+            "inStock": true
+        },
+        {
+            "title": "Искусство как профессия",
+            "author": "Эрнст Гомбрих",
+            "price": 624,
+            "genre": "искусство",
+            "ageRating": 12,
+            "userRating": 4.5,
+            "inStock": false
+        },
+        {
+            "title": "Музеи мира",
+            "author": "Джонатан Джонс",
+            "price": 305,
+            "genre": "искусство",
+            "ageRating": 12,
+            "userRating": 4.3,
+            "inStock": true
+        },
+        {
+            "title": "Стив Джобс",
+            "author": "Уолтер Айзексон",
+            "price": 656,
+            "genre": "биография",
+            "ageRating": 6,
+            "userRating": 4.4,
+            "inStock": false
+        },
+        {
+            "title": "Черчилль",
+            "author": "Эндрю Робертс",
+            "price": 970,
+            "genre": "биография",
+            "ageRating": 16,
+            "userRating": 4.7,
+            "inStock": true
+        },
+        {
+            "title": "Фрида Кало: Биография",
+            "author": "Хейден Эррера",
+            "price": 758,
+            "genre": "биография",
+            "ageRating": 18,
+            "userRating": 4.0,
+            "inStock": true
+        },
+        {
+            "title": "От хорошего к великому",
+            "author": "Джим Коллинз",
+            "price": 571,
+            "genre": "бизнес",
+            "ageRating": 12,
+            "userRating": 3.8,
+            "inStock": false
+        },
+        {
+            "title": "Развитие стартапа",
+            "author": "Эрик Рис",
+            "price": 692,
+            "genre": "бизнес",
+            "ageRating": 16,
+            "userRating": 4.8,
+            "inStock": false
+        },
+        {
+            "title": "Богатый папа, бедный папа",
+            "author": "Роберт Кийосаки",
+            "price": 504,
+            "genre": "бизнес",
+            "ageRating": 12,
+            "userRating": 4.0,
+            "inStock": false
+        },
+        {
+            "title": "Убийство в Восточном экспрессе",
+            "author": "Агата Кристи",
+            "price": 775,
+            "genre": "детектив",
+            "ageRating": 18,
+            "userRating": 4.3,
+            "inStock": true
+        },
+        {
+            "title": "Шерлок Холмс: Этюд в багровых тонах",
+            "author": "Артур Конан Дойл",
+            "price": 536,
+            "genre": "детектив",
+            "ageRating": 18,
+            "userRating": 4.3,
+            "inStock": false
+        },
+        {
+            "title": "Девушка с татуировкой дракона",
+            "author": "Стиг Ларссон",
+            "price": 489,
+            "genre": "детектив",
+            "ageRating": 6,
+            "userRating": 4.0,
+            "inStock": true
+        },
+        {
+            "title": "Война и мир",
+            "author": "Лев Толстой",
+            "price": 544,
+            "genre": "исторический роман",
+            "ageRating": 6,
+            "userRating": 3.8,
+            "inStock": false
+        },
+        {
+            "title": "Имя розы",
+            "author": "Умберто Эко",
+            "price": 439,
+            "genre": "исторический роман",
+            "ageRating": 18,
+            "userRating": 3.7,
+            "inStock": false
+        },
+        {
+            "title": "Я, Клавдий",
+            "author": "Роберт Грейвз",
+            "price": 355,
+            "genre": "исторический роман",
+            "ageRating": 6,
+            "userRating": 4.1,
+            "inStock": true
+        },
+        {
+            "title": "Властелин колец",
+            "author": "Дж. Р. Р. Толкин",
+            "price": 701,
+            "genre": "фэнтези",
+            "ageRating": 6,
+            "userRating": 4.8,
+            "inStock": false
+        },
+        {
+            "title": "Гарри Поттер и философский камень",
+            "author": "Джоан Роулинг",
+            "price": 396,
+            "genre": "фэнтези",
+            "ageRating": 18,
+            "userRating": 3.6,
+            "inStock": false
+        },
+        {
+            "title": "Игра престолов",
+            "author": "Джордж Мартин",
+            "price": 561,
+            "genre": "фэнтези",
+            "ageRating": 16,
+            "userRating": 4.8,
+            "inStock": false
+        },
+        {
+            "title": "Дюна",
+            "author": "Фрэнк Герберт",
+            "price": 623,
+            "genre": "фантастика",
+            "ageRating": 16,
+            "userRating": 3.5,
+            "inStock": false
+        },
+        {
+            "title": "451 градус по Фаренгейту",
+            "author": "Рэй Брэдбери",
+            "price": 652,
+            "genre": "фантастика",
+            "ageRating": 12,
+            "userRating": 4.4,
+            "inStock": false
+        },
+        {
+            "title": "Путеводитель по галактике",
+            "author": "Дуглас Адамс",
+            "price": 731,
+            "genre": "фантастика",
+            "ageRating": 18,
+            "userRating": 3.7,
+            "inStock": true
+        },
+        {
+            "title": "Девушка в поезде",
+            "author": "Пола Хокинс",
+            "price": 628,
+            "genre": "триллер",
+            "ageRating": 12,
+            "userRating": 4.9,
+            "inStock": true
+        },
+        {
+            "title": "Исчезнувшая",
+            "author": "Гиллиан Флинн",
+            "price": 397,
+            "genre": "триллер",
+            "ageRating": 6,
+            "userRating": 4.9,
+            "inStock": false
+        },
+        {
+            "title": "Шпион, выйди вон!",
+            "author": "Джон Ле Карре",
+            "price": 857,
+            "genre": "триллер",
+            "ageRating": 12,
+            "userRating": 3.9,
+            "inStock": false
+        },
+        {
+            "title": "Оно",
+            "author": "Стивен Кинг",
+            "price": 470,
+            "genre": "ужасы",
+            "ageRating": 16,
+            "userRating": 5.0,
+            "inStock": false
+        },
+        {
+            "title": "Дракула",
+            "author": "Брэм Стокер",
+            "price": 650,
+            "genre": "ужасы",
+            "ageRating": 18,
+            "userRating": 3.7,
+            "inStock": true
+        },
+        {
+            "title": "Сияние",
+            "author": "Стивен Кинг",
+            "price": 980,
+            "genre": "ужасы",
+            "ageRating": 6,
+            "userRating": 5.0,
+            "inStock": true
+        },
+        {
+            "title": "Остров сокровищ",
+            "author": "Роберт Льюис Стивенсон",
+            "price": 847,
+            "genre": "приключения",
+            "ageRating": 18,
+            "userRating": 3.7,
+            "inStock": true
+        },
+        {
+            "title": "Путешествие к центру Земли",
+            "author": "Жюль Верн",
+            "price": 367,
+            "genre": "приключения",
+            "ageRating": 16,
+            "userRating": 4.9,
+            "inStock": true
+        },
+        {
+            "title": "Три мушкетера",
+            "author": "Александр Дюма",
+            "price": 338,
+            "genre": "приключения",
+            "ageRating": 6,
+            "userRating": 3.7,
+            "inStock": true
+        },
+        {
+            "title": "Гордость и предубеждение",
+            "author": "Джейн Остен",
+            "price": 983,
+            "genre": "любовный роман",
+            "ageRating": 16,
+            "userRating": 4.1,
+            "inStock": false
+        },
+        {
+            "title": "Дневник памяти",
+            "author": "Николас Спаркс",
+            "price": 997,
+            "genre": "любовный роман",
+            "ageRating": 6,
+            "userRating": 3.9,
+            "inStock": true
+        },
+        {
+            "title": "Анна Каренина",
+            "author": "Лев Толстой",
+            "price": 824,
+            "genre": "любовный роман",
+            "ageRating": 16,
+            "userRating": 4.0,
+            "inStock": false
+        },
+        {
+            "title": "Сто лет одиночества",
+            "author": "Габриэль Гарсиа Маркес",
+            "price": 666,
+            "genre": "магический реализм",
+            "ageRating": 16,
+            "userRating": 4.6,
+            "inStock": true
+        },
+        {
+            "title": "Дом духов",
+            "author": "Исабель Альенде",
+            "price": 518,
+            "genre": "магический реализм",
+            "ageRating": 16,
+            "userRating": 4.4,
+            "inStock": false
+        },
+        {
+            "title": "Любовь во время холеры",
+            "author": "Габриэль Гарсиа Маркес",
+            "price": 522,
+            "genre": "магический реализм",
+            "ageRating": 16,
+            "userRating": 4.7,
+            "inStock": true
+        },
+        {
+            "title": "Утопия",
+            "author": "Томас Мор",
+            "price": 679,
+            "genre": "утопия",
+            "ageRating": 16,
+            "userRating": 4.4,
+            "inStock": true
+        },
+        {
+            "title": "Город солнца",
+            "author": "Томмазо Кампанелла",
+            "price": 334,
+            "genre": "утопия",
+            "ageRating": 12,
+            "userRating": 3.8,
+            "inStock": false
+        },
+        {
+            "title": "О дивный новый мир",
+            "author": "Олдос Хаксли",
+            "price": 577,
+            "genre": "утопия",
+            "ageRating": 12,
+            "userRating": 4.9,
+            "inStock": false
+        },
+        {
+            "title": "1984",
+            "author": "Джордж Оруэлл",
+            "price": 682,
+            "genre": "антиутопия",
+            "ageRating": 6,
+            "userRating": 3.8,
+            "inStock": true
+        },
+        {
+            "title": "Мы",
+            "author": "Евгений Замятин",
+            "price": 709,
+            "genre": "антиутопия",
+            "ageRating": 12,
+            "userRating": 4.6,
+            "inStock": true
+        },
+        {
+            "title": "Скотный двор",
+            "author": "Джордж Оруэлл",
+            "price": 929,
+            "genre": "антиутопия",
+            "ageRating": 18,
+            "userRating": 3.9,
+            "inStock": true
+        },
+        {
+            "title": "Трое в лодке",
+            "author": "Джером К. Джером",
+            "price": 630,
+            "genre": "юмор",
+            "ageRating": 12,
+            "userRating": 3.8,
+            "inStock": false
+        },
+        {
+            "title": "Автостопом по галактике",
+            "author": "Дуглас Адамс",
+            "price": 678,
+            "genre": "юмор",
+            "ageRating": 6,
+            "userRating": 4.5,
+            "inStock": true
+        },
+        {
+            "title": "Маленький Николя",
+            "author": "Рене Госинни",
+            "price": 787,
+            "genre": "юмор",
+            "ageRating": 18,
+            "userRating": 4.1,
+            "inStock": true
+        },
+        {
+            "title": "Преступление и наказание",
+            "author": "Фёдор Достоевский",
+            "price": 752,
+            "genre": "классика",
+            "ageRating": 6,
+            "userRating": 3.6,
+            "inStock": true
+        },
+        {
+            "title": "Мастер и Маргарита",
+            "author": "Михаил Булгаков",
+            "price": 655,
+            "genre": "классика",
+            "ageRating": 12,
+            "userRating": 4.9,
+            "inStock": true
+        },
+        {
+            "title": "Гамлет",
+            "author": "Уильям Шекспир",
+            "price": 614,
+            "genre": "классика",
+            "ageRating": 12,
+            "userRating": 3.9,
+            "inStock": false
+        },
+        {
+            "title": "Мстители",
+            "author": "Стен Ли",
+            "price": 983,
+            "genre": "комиксы",
+            "ageRating": 16,
+            "userRating": 3.6,
+            "inStock": true
+        },
+        {
+            "title": "Человек-паук",
+            "author": "Стен Ли",
+            "price": 679,
+            "genre": "комиксы",
+            "ageRating": 18,
+            "userRating": 3.6,
+            "inStock": false
+        },
+        {
+            "title": "Бэтмен: Год первый",
+            "author": "Фрэнк Миллер",
+            "price": 645,
+            "genre": "комиксы",
+            "ageRating": 6,
+            "userRating": 4.8,
+            "inStock": false
+        },
+        {
+            "title": "Наруто",
+            "author": "Масаси Кисимото",
+            "price": 478,
+            "genre": "манга",
+            "ageRating": 16,
+            "userRating": 4.6,
+            "inStock": true
+        },
+        {
+            "title": "Атака на титанов",
+            "author": "Хадзиме Исаяма",
+            "price": 917,
+            "genre": "манга",
+            "ageRating": 16,
+            "userRating": 3.6,
+            "inStock": true
+        },
+        {
+            "title": "Тетрадь смерти",
+            "author": "Цугуми Оба",
+            "price": 526,
+            "genre": "манга",
+            "ageRating": 6,
+            "userRating": 3.7,
+            "inStock": true
+        },
+        {
+            "title": "Евгений Онегин",
+            "author": "Александр Пушкин",
+            "price": 563,
+            "genre": "поэзия",
+            "ageRating": 18,
+            "userRating": 3.5,
+            "inStock": true
+        },
+        {
+            "title": "Божественная комедия",
+            "author": "Данте Алигьери",
+            "price": 575,
+            "genre": "поэзия",
+            "ageRating": 12,
+            "userRating": 4.6,
+            "inStock": true
+        },
+        {
+            "title": "Сонеты",
+            "author": "Уильям Шекспир",
+            "price": 331,
+            "genre": "поэзия",
+            "ageRating": 6,
+            "userRating": 4.0,
+            "inStock": true
+        }
+    ]
+}
