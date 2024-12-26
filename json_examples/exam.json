@@ -114,7 +114,7 @@
             "price": 415,
             "genre": "наука",
             "ageRating": 18,
-            "userRating": 4.9,
+            "userRating": 5.0,
             "inStock": false
         },
         {
@@ -249,7 +249,7 @@
             "price": 775,
             "genre": "детектив",
             "ageRating": 18,
-            "userRating": 4.3,
+            "userRating": 5.0,
             "inStock": true
         },
         {
@@ -339,7 +339,7 @@
             "price": 652,
             "genre": "фантастика",
             "ageRating": 12,
-            "userRating": 4.4,
+            "userRating": 5.0,
             "inStock": false
         },
         {
@@ -402,7 +402,7 @@
             "price": 980,
             "genre": "ужасы",
             "ageRating": 6,
-            "userRating": 5.0,
+            "userRating": 3.9,
             "inStock": true
         },
         {
@@ -519,7 +519,7 @@
             "price": 682,
             "genre": "антиутопия",
             "ageRating": 6,
-            "userRating": 3.8,
+            "userRating": 4.4,
             "inStock": true
         },
         {
